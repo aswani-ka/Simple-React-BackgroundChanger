@@ -5,11 +5,11 @@ This beginner-friendly project demonstrates the use of React state, event handli
 
 ## 🚀 Features
 
-✅ Change background color instantly with one click
-✅ Built with React Hooks (useState)
-✅ Styled using Tailwind CSS
-✅ Fully responsive and clean UI
-✅ Beginner-friendly and easy to customize
+- ✅ Change background color instantly with one click
+- ✅ Built with React Hooks (useState)
+- ✅ Styled using Tailwind CSS
+- ✅ Fully responsive and clean UI
+- ✅ Beginner-friendly and easy to customize
 
 ## 🛠️ Tech Stack
 
